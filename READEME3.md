@@ -1,3 +1,9 @@
+## Halo 一款现代化的个人独立博客系统
+Github 地址：https://github.com/halo-dev/halo
+> Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学一个更好的选择。
+
+------
+
 ## V免签 —— 个人开发者收款解决方案
 Github 地址：https://github.com/szvone/Vmq
 > V免签 是基于SpringBoot 2.1.1 实现的一套免签支付程序，主要包含以下特色：
